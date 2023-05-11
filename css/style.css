@@ -126,6 +126,8 @@
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -158,7 +160,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -172,6 +174,8 @@
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -204,7 +208,7 @@
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -219,6 +223,8 @@
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -251,7 +257,7 @@
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -265,6 +271,8 @@
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -297,7 +305,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -310,6 +318,8 @@
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -342,7 +352,7 @@
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -355,6 +365,8 @@
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -387,7 +399,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -401,6 +413,8 @@
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -433,7 +447,7 @@
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -448,6 +462,8 @@
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -480,7 +496,7 @@
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -494,6 +510,8 @@
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -526,7 +544,7 @@
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -539,6 +557,8 @@
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -571,7 +591,7 @@
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1144,6 +1164,8 @@ button {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1176,7 +1198,7 @@ button {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1190,6 +1212,8 @@ button {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1222,7 +1246,7 @@ button {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1237,6 +1261,8 @@ button {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -1269,7 +1295,7 @@ button {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1283,6 +1309,8 @@ button {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1315,7 +1343,7 @@ button {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1328,6 +1356,8 @@ button {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -1360,7 +1390,7 @@ button {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1790,6 +1820,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1822,7 +1854,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1836,6 +1868,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1868,7 +1902,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1883,6 +1917,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -1915,7 +1951,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -1929,6 +1965,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -1961,7 +1999,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -1974,6 +2012,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -2006,7 +2046,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2133,6 +2173,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2165,7 +2207,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2179,6 +2221,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2211,7 +2255,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2226,6 +2270,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -2258,7 +2304,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2272,6 +2318,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2304,7 +2352,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2317,6 +2365,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -2349,7 +2399,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2541,6 +2591,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2573,7 +2625,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2587,6 +2639,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2619,7 +2673,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2634,6 +2688,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -2666,7 +2722,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -2680,6 +2736,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -2712,7 +2770,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -2725,6 +2783,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -2757,7 +2817,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3090,6 +3150,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -3122,7 +3184,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3136,6 +3198,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -3168,7 +3232,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3183,6 +3247,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -3215,7 +3281,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3229,6 +3295,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -3261,7 +3329,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3274,6 +3342,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -3306,7 +3376,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3846,6 +3916,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -3878,7 +3950,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3892,6 +3964,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -3924,7 +3998,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -3939,6 +4013,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -3971,7 +4047,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -3985,6 +4061,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4017,7 +4095,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4030,6 +4108,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -4062,7 +4142,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4162,6 +4242,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4194,7 +4276,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4208,6 +4290,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4240,7 +4324,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4255,6 +4339,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -4287,7 +4373,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4301,6 +4387,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4333,7 +4421,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4346,6 +4434,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -4378,7 +4468,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4729,6 +4819,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4761,7 +4853,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4775,6 +4867,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4807,7 +4901,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4822,6 +4916,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -4854,7 +4950,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -4868,6 +4964,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -4900,7 +4998,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -4913,6 +5011,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -4945,7 +5045,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5193,6 +5293,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5225,7 +5327,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5239,6 +5341,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5271,7 +5375,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5286,6 +5390,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -5318,7 +5424,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5332,6 +5438,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5364,7 +5472,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5377,6 +5485,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -5409,7 +5519,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5418,6 +5528,18 @@ pre .deletion {
   --redefine-box-shadow-flat: var(--shadow-color-2) 0px 1px 4px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
   --redefine-box-shadow-flat-hover: var(--shadow-color-2) 0px 1px 4px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
   --mermaid-theme: '';
+}
+.home-banner-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: var(--home-banner-img) center center/cover no-repeat;
+  background-size: cover;
+  will-change: transform;
+  box-sizing: border-box;
+  transform: scale(1.1);
 }
 .home-banner-container {
   font-family: "Optima Bold", sans-serif;
@@ -5597,6 +5719,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5629,7 +5753,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5643,6 +5767,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5675,7 +5801,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5690,6 +5816,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -5722,7 +5850,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5736,6 +5864,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5768,7 +5898,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5781,6 +5911,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -5813,7 +5945,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -5923,6 +6055,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -5955,7 +6089,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -5969,6 +6103,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6001,7 +6137,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6016,6 +6152,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -6048,7 +6186,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6062,6 +6200,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6094,7 +6234,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6107,6 +6247,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -6139,7 +6281,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6150,7 +6292,6 @@ pre .deletion {
   --mermaid-theme: '';
 }
 .home-content-container {
-  background: var(--background-color);
   margin-right: 38px;
 }
 @media (max-width: 780px) {
@@ -6231,7 +6372,7 @@ pre .deletion {
   -webkit-backdrop-filter: blur(10px);
 }
 .home-content-container .home-article-list .home-article-item .home-article-sticky-label .fa-thumbtack {
-  color: var(--default-text-color);
+  color: var(--third-text-color);
   margin-right: 3px;
   font-size: 0.65rem;
 }
@@ -6278,6 +6419,7 @@ pre .deletion {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
+  font-family: 'Open Sans', 'Noto Sans', sans-serif, 'Noto Sans SC', sans-serif, "Noto Sans SC", sans-serif;
   margin: 0;
 }
 @media (max-width: 780px) {
@@ -6354,6 +6496,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6386,7 +6530,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6400,6 +6544,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6432,7 +6578,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6447,6 +6593,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -6479,7 +6627,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6493,6 +6641,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6525,7 +6675,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6538,6 +6688,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -6570,7 +6722,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6794,6 +6946,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6826,7 +6980,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6840,6 +6994,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6872,7 +7028,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6887,6 +7043,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -6919,7 +7077,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -6933,6 +7091,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -6965,7 +7125,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -6978,6 +7138,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -7010,7 +7172,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7508,6 +7670,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7540,7 +7704,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7554,6 +7718,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7586,7 +7752,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7601,6 +7767,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -7633,7 +7801,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7647,6 +7815,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7679,7 +7849,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7692,6 +7862,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -7724,7 +7896,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7791,6 +7963,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7823,7 +7997,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7837,6 +8011,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7869,7 +8045,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7884,6 +8060,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -7916,7 +8094,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -7930,6 +8108,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -7962,7 +8142,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -7975,6 +8155,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -8007,7 +8189,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -8203,6 +8385,8 @@ pre .deletion {
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -8235,7 +8419,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -8249,6 +8433,8 @@ pre .deletion {
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -8281,7 +8467,7 @@ pre .deletion {
     --note-type-title-bg: #fdf3e9;
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
-    --home-banner-img: url("/images/wheat-field-light.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
     --home-banner-text-color: #fff;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -8296,6 +8482,8 @@ pre .deletion {
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -8328,7 +8516,7 @@ pre .deletion {
     --note-type-title-bg: #4e3a1e;
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
-    --home-banner-img: url("/images/wheat-field-dark.jpg");
+    --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
     --home-banner-text-color: #d1d1b6;
     --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
     --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
@@ -8342,6 +8530,8 @@ pre .deletion {
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -8374,7 +8564,7 @@ pre .deletion {
   --note-type-title-bg: #fdf3e9;
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
-  --home-banner-img: url("/images/wheat-field-light.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixpK0P.jpeg");
   --home-banner-text-color: #fff;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
@@ -8387,6 +8577,8 @@ pre .deletion {
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -8419,7 +8611,7 @@ pre .deletion {
   --note-type-title-bg: #4e3a1e;
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
-  --home-banner-img: url("/images/wheat-field-dark.jpg");
+  --home-banner-img: url("https://i.328888.xyz/2023/04/14/ixp91C.jpeg");
   --home-banner-text-color: #d1d1b6;
   --home-banner-icons-container-border-color: rgba(197,197,197,0.35);
   --home-banner-icons-container-background-color: rgba(197,197,197,0.3);
