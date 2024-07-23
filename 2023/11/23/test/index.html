@@ -1437,7 +1437,7 @@
 
 <p><strong>注意：</strong></p>
 <p>前端采用haproxy时，服务连接rabbitmq会出现连接超时重连的情况，可通过各服务与rabbitmq的日志查看；</p>
-<p>transport_url&#x3D;rabbit:&#x2F;&#x2F;openstack:<a class="link"   href="mailto:&#49;&#50;&#51;&#52;&#x35;&#54;&#x40;&#49;&#x30;&#46;&#x31;&#x30;&#x2e;&#x31;&#48;&#x2e;&#x31;&#x30;" >&#49;&#50;&#51;&#52;&#x35;&#54;&#x40;&#49;&#x30;&#46;&#x31;&#x30;&#x2e;&#x31;&#48;&#x2e;&#x31;&#x30; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:5672</p>
+<p>transport_url&#x3D;rabbit:&#x2F;&#x2F;openstack:<a class="link"   href="mailto:&#x31;&#x32;&#x33;&#x34;&#53;&#54;&#64;&#x31;&#48;&#x2e;&#x31;&#48;&#x2e;&#x31;&#x30;&#46;&#49;&#48;" >&#x31;&#x32;&#x33;&#x34;&#53;&#54;&#64;&#x31;&#48;&#x2e;&#x31;&#48;&#x2e;&#x31;&#x30;&#46;&#49;&#48; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:5672</p>
 <p>rabbitmq本身具备集群机制，官方文档建议直接连接rabbitmq集群；但采用此方式时服务启动有时会报错，原因不明；如果没有此现象，建议连接rabbitmq直接对接集群而非通过前端haproxy的vip+端口</p>
 <div class="highlight-container" data-rel="Perl"><figure class="iseeu highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">openstack-config --set /etc/nova/nova.conf DEFAULT transport_url rabbit:<span class="regexp">//</span>openstack:<span class="number">123456</span>@controller01:<span class="number">5672</span>,openstack:<span class="number">123456</span>@controller02:<span class="number">5672</span>,openstack:<span class="number">123456</span>@controller03:<span class="number">5672</span></span><br></pre></td></tr></table></figure></div>
 
