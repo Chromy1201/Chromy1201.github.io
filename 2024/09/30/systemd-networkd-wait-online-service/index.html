@@ -16,17 +16,22 @@
     
     <!--- Seo Part-->
     
-    <link rel="canonical" href="http://example.com/archives/2023/11/"/>
+    <link rel="canonical" href="http://example.com/2024/09/30/systemd-networkd-wait-online-service/"/>
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     
-        <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://example.com/archives/2023/11/index.html">
+        <meta name="description" content="问题环境：j2900工控机 Ubuntu Server 20.04.6 LTS 问题描述：  开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）  若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动">
+<meta property="og:type" content="article">
+<meta property="og:title" content="解决Ubuntu的systemd-networkd-wait-online.service失败的问题">
+<meta property="og:url" content="http://example.com/2024/09/30/systemd-networkd-wait-online-service/index.html">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="问题环境：j2900工控机 Ubuntu Server 20.04.6 LTS 问题描述：  开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）  若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动">
 <meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-09-30T08:11:13.000Z">
+<meta property="article:modified_time" content="2024-09-30T08:21:02.820Z">
 <meta property="article:author" content="Chromy Chen">
+<meta property="article:tag" content="DevOps">
 <meta name="twitter:card" content="summary">
     
     
@@ -39,7 +44,7 @@
     
     <title>
         
-            Archive: 2023/11 -
+            解决Ubuntu的systemd-networkd-wait-online.service失败的问题 -
         
         Chromy&#39;s Personal Blog
     </title>
@@ -151,7 +156,7 @@
                         
                             <li class="navbar-item">
                                 <!-- Menu -->
-                                <a class="active" 
+                                <a class="" 
                                     href="/archives"  >
                                     
                                         
@@ -248,7 +253,7 @@
             
                 
                     <li class="drawer-navbar-item flex-center">
-                        <a class="active" 
+                        <a class="" 
                         href="/archives"  >
                              
                                 
@@ -321,142 +326,155 @@
 
                 
                     <div class="fade-in-down-animation">
-    <div class="archive-container ">
-        
-<div class="archive-list-container">
+    <div class="post-page-container">
+        <div class="article-content-container">
+
+            
+            
+                <div class="article-title">
+                    <h1 class="article-title-regular">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</h1>
+                </div>
+            
+                
+            
+
+            
+                <div class="article-header">
+                    <div class="avatar">
+                        <img src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/UsuallyUsed/Avatar.png">
+                    </div>
+                    <div class="info">
+                        <div class="author">
+                            <span class="name">Chromy Chen</span>
+                            
+                                <span class="author-label"></span>
+                            
+                        </div>
+                        <div class="meta-info">
+                            <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="desktop">2024-09-30 16:11:13</span>
+        <span class="mobile">2024-09-30 16:11</span>
+        <span class="hover-info">Created</span>
+    </span>
     
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2024</span>
-                <span class="archive-year-post-count">[7]</span>
-            </div>
-            <ul class="article-list">
-              
-              <li class="article-item" date-is='09-30'>
-                <a href="/2024/09/30/systemd-networkd-wait-online-service/">
-                  <span class="article-title">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='08-05'>
-                <a href="/2024/08/05/che-deploy/">
-                  <span class="article-title">Eclipse-Che部署文档</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='07-23'>
-                <a href="/2024/07/23/sd-deploy/">
-                  <span class="article-title">Stable_Diffusion部署文档</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='07-23'>
-                <a href="/2024/07/23/llm-deploy/">
-                  <span class="article-title">大模型部署文档</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='07-16'>
-                <a href="/2024/07/16/20240714/">
-                  <span class="article-title">MAGA</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='06-13'>
-                <a href="/2024/06/13/starship-lft4/">
-                  <span class="article-title">Starship&#39;s Fourth Flight Test</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='03-19'>
-                <a href="/2024/03/19/starship-lft3/">
-                  <span class="article-title">Starship&#39;s Third Flight Test</span>
-                </a>
-              </li>
-              
-            </ul>
-        </section>
+        <span class="article-date article-meta-item">
+            <i class="fa-regular fa-wrench"></i>&nbsp;
+            <span class="desktop">2024-09-30 16:21:02</span>
+            <span class="mobile">2024-09-30 16:21</span>
+            <span class="hover-info">Updated</span>
+        </span>
     
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[11]</span>
-            </div>
-            <ul class="article-list">
-              
-              <li class="article-item" date-is='12-20'>
-                <a href="/2023/12/20/gtapic1/">
-                  <span class="article-title">GTA5 Online Screenshots 1</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='11-23'>
-                <a href="/2023/11/23/test/">
-                  <span class="article-title">&lt;转&gt;openstack高可用集群搭建(分布式路由)(train版)</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='11-22'>
-                <a href="/2023/11/22/cephfs/">
-                  <span class="article-title">记CephFS测试环境搭建</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='11-18'>
-                <a href="/2023/11/18/starship1118/">
-                  <span class="article-title">Starship&#39;s Second Flight Test</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='11-17'>
-                <a href="/2023/11/17/miaomiaopic3/">
-                  <span class="article-title">喵喵喵？</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='10-16'>
-                <a href="/2023/10/16/2023MCvote/">
-                  <span class="article-title">2023MCvote</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='09-30'>
-                <a href="/2023/09/30/miaomiaopic2/">
-                  <span class="article-title">喵喵？</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='09-29'>
-                <a href="/2023/09/29/miaomiaopic1/">
-                  <span class="article-title">喵？</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='09-28'>
-                <a href="/2023/09/28/mcgallery01/">
-                  <span class="article-title">Minecraft建筑照片（2019-2023）</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='09-24'>
-                <a href="/2023/09/24/wallpapers/">
-                  <span class="article-title">壁纸备份</span>
-                </a>
-              </li>
-              
-              <li class="article-item" date-is='04-08'>
-                <a href="/2023/04/08/Hello%20World/">
-                  <span class="article-title">Hello World</span>
-                </a>
-              </li>
-              
+
+    
+        <span class="article-categories article-meta-item">
+            <i class="fa-regular fa-folders"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/categories/Docs/">Docs</a>&nbsp;
+                    </li>
+                
             </ul>
-        </section>
+        </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/DevOps/">DevOps</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
+    
+
+    
+    
+    
     
 </div>
 
+                        </div>
+                    </div>
+                </div>
+            
+
+            <div class="article-content markdown-body">
+                <p><strong>问题环境</strong>：j2900工控机 Ubuntu Server 20.04.6 LTS</p>
+<p><strong>问题描述</strong>：</p>
+<ol>
+<li><p>开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）</p>
+</li>
+<li><p>若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动恢复</p>
+</li>
+</ol>
+<p><strong>问题解决</strong>：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /lib/systemd/system/systemd-networkd-wait-online.service</span><br></pre></td></tr></table></figure></div>
+
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">[Service]</span><br><span class="line">Type=oneshot</span><br><span class="line">ExecStart=/lib/systemd/systemd-networkd-wait-online --any <span class="comment"># 添加参数--any</span></span><br><span class="line">RemainAfterExit=<span class="built_in">yes</span></span><br><span class="line">TimeoutStartSec=2sec <span class="comment"># 添加这一行，指定超时时间</span></span><br></pre></td></tr></table></figure></div>
+
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl restart systemd-networkd-wait-online.service</span><br></pre></td></tr></table></figure></div>
+            </div>
+
+            
+
+            
+                <ul class="post-tags-box">
+                    
+                        <li class="tag-item">
+                            <a href="/tags/DevOps/">#DevOps</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            
+
+            
+
+            
+                <div class="article-nav">
+                    
+                    
+                        <div class="article-next">
+                            <a class="next"
+                            rel="next"
+                            href="/2024/08/05/che-deploy/"
+                            >
+                                <span class="title flex-center">
+                                    <span class="post-nav-title-item">Eclipse-Che部署文档</span>
+                                    <span class="post-nav-item">Next posts</span>
+                                </span>
+                                <span class="right arrow-icon flex-center">
+                                    <i class="fa-solid fa-chevron-right"></i>
+                                </span>
+                            </a>
+                        </div>
+                    
+                </div>
+            
+
+
+            
+        </div>
+
+        
+            <div class="toc-content-container">
+                <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div class="toc-title">On this page</div>
+        <div class="page-title">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</div>
+        
+
     </div>
 </div>
+            </div>
+        
+    </div>
+</div>
+
 
                 
 
@@ -495,6 +513,23 @@
         </div>
     </div>
 
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="article-tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="right-bottom-tools page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
     
 
     <div class="right-side-tools-container">
@@ -596,6 +631,16 @@
 
 
 <div class="post-scripts pjax">
+    
+        
+<script src="/js/tools/tocToggle.js"></script>
+
+<script src="/js/libs/anime.min.js"></script>
+
+<script src="/js/layouts/toc.js"></script>
+
+<script src="/js/plugins/tabs.js"></script>
+
     
 </div>
 
