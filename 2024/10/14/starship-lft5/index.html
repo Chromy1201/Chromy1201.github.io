@@ -16,23 +16,50 @@
     
     <!--- Seo Part-->
     
-    <link rel="canonical" href="http://example.com/2024/09/30/systemd-networkd-wait-online-service/"/>
+    <link rel="canonical" href="http://example.com/2024/10/14/starship-lft5/"/>
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     
-        <meta name="description" content="问题环境：j2900工控机 Ubuntu Server 20.04.6 LTS 问题描述：  开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）  若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动">
+        <meta name="description" content="星舰顺利发射，Super Heavy Booster原路返回，精确落回原发射塔，并被Mechazilla“筷子”成功捕获。星舰二级顺利入轨、再入并精准软溅落在印度洋，不远处的浮标直播镜头捕获了大呲花过程。借由​星链，全程直播未断，包括“黑障”阶段。星舰第五次集成试飞完美按照计划执行完毕。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="解决Ubuntu的systemd-networkd-wait-online.service失败的问题">
-<meta property="og:url" content="http://example.com/2024/09/30/systemd-networkd-wait-online-service/index.html">
+<meta property="og:title" content="Starship&#39;s Fifth Flight Test">
+<meta property="og:url" content="http://example.com/2024/10/14/starship-lft5/index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="问题环境：j2900工控机 Ubuntu Server 20.04.6 LTS 问题描述：  开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）  若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动">
+<meta property="og:description" content="星舰顺利发射，Super Heavy Booster原路返回，精确落回原发射塔，并被Mechazilla“筷子”成功捕获。星舰二级顺利入轨、再入并精准软溅落在印度洋，不远处的浮标直播镜头捕获了大呲花过程。借由​星链，全程直播未断，包括“黑障”阶段。星舰第五次集成试飞完美按照计划执行完毕。">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2024-09-30T08:11:13.000Z">
-<meta property="article:modified_time" content="2024-09-30T08:21:02.820Z">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081558.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081601.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081603.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081606.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215856.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_165759.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121428.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205806.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215436.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215438.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121432.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_115138.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121540.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215441.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215440.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215214.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_214851.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205926.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215044.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205816.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205808.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_220050.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_214905.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215425.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215316.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_120115.jpg">
+<meta property="article:published_time" content="2024-10-14T11:52:22.000Z">
+<meta property="article:modified_time" content="2024-10-14T12:11:08.147Z">
 <meta property="article:author" content="Chromy Chen">
-<meta property="article:tag" content="DevOps">
+<meta property="article:tag" content="SpaceX">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081558.jpg">
     
     
     <!--- Icon Part-->
@@ -44,7 +71,7 @@
     
     <title>
         
-            解决Ubuntu的systemd-networkd-wait-online.service失败的问题 -
+            Starship&#39;s Fifth Flight Test -
         
         Chromy&#39;s Personal Blog
     </title>
@@ -332,7 +359,7 @@
             
             
                 <div class="article-title">
-                    <h1 class="article-title-regular">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</h1>
+                    <h1 class="article-title-regular">Starship&#39;s Fifth Flight Test</h1>
                 </div>
             
                 
@@ -354,15 +381,15 @@
                             <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-09-30 16:11:13</span>
-        <span class="mobile">2024-09-30 16:11</span>
+        <span class="desktop">2024-10-14 19:52:22</span>
+        <span class="mobile">2024-10-14 19:52</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-09-30 16:21:02</span>
-            <span class="mobile">2024-09-30 16:21</span>
+            <span class="desktop">2024-10-14 20:11:08</span>
+            <span class="mobile">2024-10-14 20:11</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -373,7 +400,7 @@
             <ul>
                 
                     <li>
-                        <a href="/categories/Docs/">Docs</a>&nbsp;
+                        <a href="/categories/Pictures/">Pictures</a>&nbsp;
                     </li>
                 
             </ul>
@@ -385,7 +412,7 @@
             <ul>
                 
                     <li>
-                        <a href="/tags/DevOps/">DevOps</a>&nbsp;
+                        <a href="/tags/SpaceX/">SpaceX</a>&nbsp;
                     </li>
                 
             </ul>
@@ -404,20 +431,138 @@
             
 
             <div class="article-content markdown-body">
-                <p><strong>问题环境</strong>：j2900工控机 Ubuntu Server 20.04.6 LTS</p>
-<p><strong>问题描述</strong>：</p>
-<ol>
-<li><p>开机过程会卡在“A start job is running for wait for network to be Configured”等待连接两分多钟。（启动作业正在运行，等待配置网络）</p>
-</li>
-<li><p>若仅指定超时时间，则开机后systemd-networkd-wait-online.service的失败不会自动恢复</p>
-</li>
-</ol>
-<p><strong>问题解决</strong>：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim /lib/systemd/system/systemd-networkd-wait-online.service</span><br></pre></td></tr></table></figure></div>
+                <p>星舰顺利发射，Super Heavy Booster原路返回，精确落回原发射塔，并被Mechazilla“筷子”成功捕获。<br>星舰二级顺利入轨、再入并精准软溅落在印度洋，不远处的浮标直播镜头捕获了大呲花过程。<br>借由​星链，全程直播未断，包括“黑障”阶段。<br>星舰第五次集成试飞完美按照计划执行完毕。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081558.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081601.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081603.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_081606.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215856.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_165759.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121428.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205806.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215436.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215438.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121432.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_115138.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_121540.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215441.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215440.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215214.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_214851.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205926.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215044.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205816.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_205808.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_220050.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_214905.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215425.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241013_215316.jpg"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Chromy1201/imagebed/Blog/20241014_120115.jpg"
+                     
+                ></p>
 
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">[Service]</span><br><span class="line">Type=oneshot</span><br><span class="line">ExecStart=/lib/systemd/systemd-networkd-wait-online --any <span class="comment"># 添加参数--any</span></span><br><span class="line">RemainAfterExit=<span class="built_in">yes</span></span><br><span class="line">TimeoutStartSec=2sec <span class="comment"># 添加这一行，指定超时时间</span></span><br></pre></td></tr></table></figure></div>
-
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl restart systemd-networkd-wait-online.service</span><br></pre></td></tr></table></figure></div>
             </div>
 
             
@@ -426,7 +571,7 @@
                 <ul class="post-tags-box">
                     
                         <li class="tag-item">
-                            <a href="/tags/DevOps/">#DevOps</a>&nbsp;
+                            <a href="/tags/SpaceX/">#SpaceX</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -437,29 +582,14 @@
             
                 <div class="article-nav">
                     
-                        <div class="article-prev">
-                            <a class="prev"
-                            rel="prev"
-                            href="/2024/10/14/starship-lft5/"
-                            >
-                                <span class="left arrow-icon flex-center">
-                                    <i class="fa-solid fa-chevron-left"></i>
-                                </span>
-                                <span class="title flex-center">
-                                    <span class="post-nav-title-item">Starship&#39;s Fifth Flight Test</span>
-                                    <span class="post-nav-item">Prev posts</span>
-                                </span>
-                            </a>
-                        </div>
-                    
                     
                         <div class="article-next">
                             <a class="next"
                             rel="next"
-                            href="/2024/08/05/che-deploy/"
+                            href="/2024/09/30/systemd-networkd-wait-online-service/"
                             >
                                 <span class="title flex-center">
-                                    <span class="post-nav-title-item">Eclipse-Che部署文档</span>
+                                    <span class="post-nav-title-item">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</span>
                                     <span class="post-nav-item">Next posts</span>
                                 </span>
                                 <span class="right arrow-icon flex-center">
@@ -480,7 +610,7 @@
                 <div class="post-toc-wrap">
     <div class="post-toc">
         <div class="toc-title">On this page</div>
-        <div class="page-title">解决Ubuntu的systemd-networkd-wait-online.service失败的问题</div>
+        <div class="page-title">Starship&#39;s Fifth Flight Test</div>
         
 
     </div>
